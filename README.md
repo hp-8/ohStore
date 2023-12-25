@@ -48,7 +48,7 @@ Several other technologies are incorporated into this web app; please check the 
 
 ## Disclaimer ⚠️
 
-This project prioritizes backend functionality over aesthetics. User interface design is intentionally minimal for a focus on practicing backend skills.
+This project prioritizes backend functionality over aesthetics. User interface design is intentionally minimal for a focus on practicing backend skills. This project is just for learning purpose and no intentionally commercial use.
 
 ## Contributing 🤝
 
