@@ -2,7 +2,7 @@
 
 ## Overview 🌐
 
-This project is a Firebase-based e-commerce website designed for practicing and enhancing backend web development skills. The primary functionalities include user profile creation, product browsing, and secure transactions using Razorpay. The project incorporates various technologies such as React, Tailwind CSS, Axios, Firebase, Redux, lazy load images, Redux Thunk, React Router DOM, Vercel, and React Countdown.
+This project is a Firebase-based e-commerce website designed for practicing and enhancing backend web development skills. The primary functionalities include user profile creation, product browsing, and secure transactions using Razorpay. The project incorporates various technologies such as React, Tailwind CSS, Axios, Firebase, Redux, lazy load images, Redux Thunk, React Router DOM, Vercel, and React Countdown and much more.
 
 ## Features 🛍️
 
