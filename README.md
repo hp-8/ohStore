@@ -1,10 +1,10 @@
-# Firebase E-commerce Website => OhStore!
+# OhStore! - Firebase E-commerce Website
 
-## Overview
+## Overview 🌐
 
 This project is a Firebase-based e-commerce website designed for practicing and enhancing backend web development skills. The primary functionalities include user profile creation, product browsing, and secure transactions using Razorpay. The project incorporates various technologies such as React, Tailwind CSS, Axios, Firebase, Redux, lazy load images, Redux Thunk, React Router DOM, Vercel, and React Countdown.
 
-## Features
+## Features 🛍️
 
 - **User Profiles:**
   - Create and manage user profiles.
@@ -18,7 +18,7 @@ This project is a Firebase-based e-commerce website designed for practicing and 
   - Integration with Razorpay for secure transactions.
   - Test transactions available for a risk-free experience.
 
-## Technologies Used
+## Technologies Used 🚀
 
 ### Frontend
 
@@ -44,12 +44,12 @@ This project is a Firebase-based e-commerce website designed for practicing and 
 
 - [Vercel](https://vercel.com/) for hosting and deploying the application.
 
-#### Several other technologies are incorporated in this web app please check the package.json file for for information.
+Several other technologies are incorporated into this web app; please check the `package.json` file for more information.
 
-## Disclaimer
+## Disclaimer ⚠️
 
 This project prioritizes backend functionality over aesthetics. User interface design is intentionally minimal for a focus on practicing backend skills.
 
-## Contributing
+## Contributing 🤝
 
 Feel free to contribute to the project by opening issues or submitting pull requests. Your feedback and improvements are highly appreciated.
